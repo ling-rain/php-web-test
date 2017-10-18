@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Fernando Mayo <fernando@tutum.co>
+MAINTAINER yilisa <915961521@qq.com>
 
 ENV OS_TYPE ubuntu 
 ENV OS_VERSION trusty
